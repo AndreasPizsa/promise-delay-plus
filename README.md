@@ -1,4 +1,4 @@
-# promise-delay [![NPM version](https://badge.fury.io/js/promise-delay.svg)](http://badge.fury.io/js/promise-delay)
+# promise-delay ![Travis](https://img.shields.io/travis/AndreasPizsa/promise-delay.svg?style=flat-square) ![Coverage Status](https://img.shields.io/coveralls/AndreasPizsa/promise-delay.svg?style=flat-square) ![Downloads](https://img.shields.io/npm/dm/promise-delay.svg?style=flat-square)
 
 > Promise.delay() for ES6. Returns a promise that will be resolved after a delay.
 
@@ -58,8 +58,8 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 **Andreas Pizsa**
 
-+ [github/https.](https://github.com/https.)
-+ [twitter/https.](http://twitter.com/https.)
++ [github/AndreasPizsa](https://github.com/AndreasPizsa)
++ [twitter/AndreasPizsa](http://twitter.com/AndreasPizsa)
 
 ## License
 
