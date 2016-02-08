@@ -1,0 +1,41 @@
+{
+  "name": "promise-delay",
+  "description": "Promise.delay() for ES6. Returns a promise that will be resolved after a delay.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AndreasPizsa/promise-delay",
+  "author": "Andreas Pizsa (https.//github.com/AndreasPizsa)",
+  "repository": "AndreasPizsa/promise-delay",
+  "bugs": {
+    "url": "https://github.com/AndreasPizsa/promise-delay/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bluebird": "^3.2.2",
+    "coveralls": "^2.11.6",
+    "istanbul": "*",
+    "mocha": "*",
+    "mocha-lcov-reporter": "^1.0.0",
+    "should": "*"
+  },
+  "keywords": [
+    "promise.delay",
+    "delay",
+    "promise",
+    "es6",
+    "wait"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
