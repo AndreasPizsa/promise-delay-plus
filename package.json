@@ -1,12 +1,12 @@
 {
-  "name": "promise-delay",
-  "description": "Promise.delay() for ES6. Returns a promise that will be resolved after a delay.",
+  "name": "promise-delay-plus",
+  "description": "Promise.delay() for ES6 and others. Returns a promise that will be resolved after a delay.",
   "version": "0.1.0",
-  "homepage": "https://github.com/AndreasPizsa/promise-delay",
+  "homepage": "https://github.com/AndreasPizsa/promise-delay-plus",
   "author": "Andreas Pizsa (https://github.com/AndreasPizsa)",
-  "repository": "AndreasPizsa/promise-delay",
+  "repository": "AndreasPizsa/promise-delay-plus",
   "bugs": {
-    "url": "https://github.com/AndreasPizsa/promise-delay/issues"
+    "url": "https://github.com/AndreasPizsa/promise-delay-plus/issues"
   },
   "license": "MIT",
   "files": [
@@ -30,10 +30,12 @@
   },
   "keywords": [
     "promise.delay",
-    "delay",
     "promise",
-    "es6",
-    "wait"
+    "delay",
+    "wait",
+    "timeout",
+    "setTimeout",
+    "es6"
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"

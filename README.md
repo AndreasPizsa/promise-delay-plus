@@ -1,25 +1,25 @@
-# promise-delay ![Travis](https://img.shields.io/travis/AndreasPizsa/promise-delay.svg?style=flat-square) ![Coverage Status](https://img.shields.io/coveralls/AndreasPizsa/promise-delay.svg?style=flat-square) ![Downloads](https://img.shields.io/npm/dm/promise-delay.svg?style=flat-square)
+# promise-delay-plus ![Travis](https://img.shields.io/travis/AndreasPizsa/promise-delay-plus.svg?style=flat-square) ![Coverage Status](https://img.shields.io/coveralls/AndreasPizsa/promise-delay-plus.svg?style=flat-square) ![Downloads](https://img.shields.io/npm/dm/promise-delay-plus.svg?style=flat-square)
 
-> Promise.delay() for ES6. Returns a promise that will be resolved after a delay.
+> Promise.delay() for ES6 and others. Returns a promise that will be resolved after a delay.
 
 ## Install
 
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm i promise-delay --save
+$ npm i promise-delay-plus --save
 ```
 
 ## Usage
 
 ```js
-require('promise-delay')();
+require('promise-delay-plus')();
 ```
 
 or with `any-promise`
 
 ```js
-require('promise-delay')(require('any-promise'));
+require('promise-delay-plus')(require('any-promise'));
 ```
 
 ## API
@@ -52,7 +52,7 @@ $ npm i -d && npm test
 
 ## Contributing
 
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/AndreasPizsa/promise-delay/issues/new).
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/AndreasPizsa/promise-delay-plus/issues/new).
 
 ## Author
 
