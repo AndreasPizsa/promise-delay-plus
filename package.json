@@ -22,7 +22,7 @@
   "dependencies": {},
   "devDependencies": {
     "bluebird": "^3.2.2",
-    "coveralls": "^2.11.6",
+    "coveralls": "^3.0.2",
     "istanbul": "*",
     "mocha": "*",
     "mocha-lcov-reporter": "^1.0.0",
