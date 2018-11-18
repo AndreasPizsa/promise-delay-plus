@@ -1,5 +1,7 @@
 # promise-delay-plus ![Travis](https://img.shields.io/travis/AndreasPizsa/promise-delay-plus.svg?style=flat-square) ![Coverage Status](https://img.shields.io/coveralls/AndreasPizsa/promise-delay-plus.svg?style=flat-square) ![Downloads](https://img.shields.io/npm/dm/promise-delay-plus.svg?style=flat-square)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/promise-delay-plus.svg)](https://greenkeeper.io/)
+
 > Promise.delay() for ES6 and others. Returns a promise that will be resolved after a delay.
 
 ## Install
